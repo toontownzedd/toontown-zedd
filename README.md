@@ -1,2 +1,0 @@
-# toontown-zedd
-Toontown Zedd
